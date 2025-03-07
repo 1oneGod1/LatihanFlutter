@@ -89,3 +89,11 @@ Aplikasi akan berjalan pada perangkat yang dikonfigurasi.
 ## 5. Kesimpulan
 Aplikasi ini menggunakan Flutter untuk membangun UI yang menarik dan responsif dengan fitur seperti login, navigasi kategori, dan tampilan produk yang unik. Dengan pendekatan modular, aplikasi ini mudah diperluas dan dikembangkan lebih lanjut.
 
+## 6. Dokumentasi
+![image](https://github.com/user-attachments/assets/a53e613d-7dc1-4c01-8f02-421e1ef19dc9)
+![image](https://github.com/user-attachments/assets/684ad119-af8a-4eff-9bae-7c4e66ff0694)
+![image](https://github.com/user-attachments/assets/2fb02d8d-6c00-4836-9ab5-3370786ad3ce)
+
+
+
+
